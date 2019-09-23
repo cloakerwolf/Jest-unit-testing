@@ -1,4 +1,4 @@
-let sum = require('./sum.js')
+let sum = require('./sum.js');
 
 
 describe('sum module tests', () => {

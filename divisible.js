@@ -8,6 +8,9 @@ const divisable = function(num1) {
     if(num1 % 5 === 0) {
         return 'Buzz';
     }
+    else {
+        return num1;
+    }
 }
 
 
